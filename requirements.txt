@@ -1,0 +1,9 @@
+To run this project, the following dependencies are required:
+
+1. Python 3.x
+2. Tensorflow.keras
+3. Nltk
+4. Numpy
+5. Os
+6. Random
+7. String
