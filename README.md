@@ -12,12 +12,12 @@
 
 
 <p align = "center">
-<img src="logo/df.png" alt="output" width="450"
+<img src="logo/icon1.png" alt="output" width="450"
 style="border-radius: 10px" />
 </p>
 
 
-<h2 style="text-align: left;">Framwork used</h2>
+<h2 style="text-align: left;">Framework used</h2>
 
  * **[Tensorflow](https://www.tensorflow.org/)**
  * **[Keras](https://keras.io/)**
